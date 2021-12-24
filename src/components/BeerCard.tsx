@@ -10,6 +10,7 @@ export const BeerCard = ({ beerData }: BeerCardProps) => {
     <div>
       <h2>{name}</h2>
       <p>{price}</p>
+      <p>{name}</p>
     </div>
   )
 }
